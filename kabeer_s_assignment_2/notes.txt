@@ -36,3 +36,9 @@ Level 6:
 again saw man find
 found user tag and group tag. many permission denied error. manually search for accessible file
 morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
+
+Level 7:
+see man grep to see its usage
+dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
+
+
